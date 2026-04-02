@@ -1,7 +1,7 @@
-### emo_stopping_criteria
-
+# emo_stopping_criteria
 This repository is based on the pymoo.
 
-## Requirement
+# Requirements
+This code at least require Python 3 and numpy. 
 
-## Usage
+# Usage
