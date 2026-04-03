@@ -2,6 +2,8 @@
 This Python code is to implement five EMO stopping criteria discussed in the following paper:
 > Kenji Kitamura, Ryoji Tanabe, Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, GECCO 2026
 
+This code implements the stopping criteria other than ISC based on the file-based approach proposed in the above paper. ISC operates by loading the best-so-far HV value data.
+
 # Requirements
 This code at least require Python 3 and numpy. Platypus library is also required to run εSC (https://github.com/Project-Platypus/Platypus).
 
